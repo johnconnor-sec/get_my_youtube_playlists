@@ -1,5 +1,5 @@
 # get_my_youtube_playlists
-A tool to retrieve all your videos from your playlists and place them as links in a file.
+A tool to retrieve all your videos from your playlists and place them as embedded markdown links in a (preferably) markdown file.
 
 # PROJECT OVERVIEW
 
